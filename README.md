@@ -1,6 +1,8 @@
 Django REST Framework
 
-Ce guide détaille les étapes que j'ai suivies pour créer une API RESTful simple à l'aide de Django REST Framework dans mon projet django_rest_beginners.
+Ce guide détaille les étapes que j'ai suivi pour créer une API RESTful simple à l'aide de Django REST Framework dans mon projet django_rest_beginners.
+
+
 ##Étapes de configuration
 
 ##1. Installation de Django et Django REST Framework
@@ -12,6 +14,7 @@ pip install djangorestframework
 ```
 ##2. Création du projet Django
 
+
 ```bash
 django-admin startproject django_rest_beginners
 ```
@@ -21,7 +24,10 @@ django-admin startproject django_rest_beginners
 ```bash
 python manage.py startapp api
 ```
+
 Dans settings.py, j'ai ajouté 'rest_framework' pour intégrer le framework Django REST, et 'api.apps.ApiConfig' pour configurer mon application api.
+
+
 ```bash
 INSTALLED_APPS = [
     'django.contrib.admin',

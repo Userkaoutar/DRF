@@ -144,15 +144,21 @@ python manage.py runserver
 
 <img width="920" alt="image" src="https://github.com/Userkaoutar/DRF/assets/101696114/2cc48000-d8de-4ad1-a3b7-226f2c8f3793">
 
-
+.
 
 <img width="875" alt="image" src="https://github.com/Userkaoutar/DRF/assets/101696114/960bd346-4f6f-4bb2-8087-ef2eba13f9d0">
+
+.
 
 
 <img width="878" alt="image" src="https://github.com/Userkaoutar/DRF/assets/101696114/2e33bc5b-b5af-46f1-bb74-23235505e1a6">
 
+.
+
 
 <img width="901" alt="image" src="https://github.com/Userkaoutar/DRF/assets/101696114/ed6ba16d-5bac-4f31-b89d-7e6ea84d5510">
+
+ .
 
 
 
